@@ -1,0 +1,26 @@
+.banner{
+	background-image: linear-gradient(-236deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url(../../images/machupichubackground.jpg);
+	background-size: cover;
+	background-position: center;
+	color:white;
+	padding:150px 0px;
+	height: 100vh;
+}
+
+.banner h1{
+    font-size: 81px;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+.banner h2{
+    font-size: 50px;
+    font-weight: lighter;
+    opacity: 0.9;
+    margin-bottom: 43px;
+    margin-left: 97px;
+}
+
+.banner-text{
+	width:50%;
+}

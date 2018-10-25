@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Bree+Serif|Slabo+27px");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+@import url("components/navbar.css");
+
+body{
+    font-family: 'Slabo 27px', serif;
+    font-size: 17px;
+    margin: 0px;
+    color: #72460e;
+}
+
+h1{
+	font-family: 'Bree Serif', serif;
+	font-weight: lighter;
+	font-weight:bold;
+}
+
+h2,h3{
+	font-family: 'Bree Serif', serif;
+}
+
+a{
+	text-decoration: none;
+}

@@ -1,0 +1,27 @@
+#footer{
+	display:flex;
+	flex-wrap: wrap;
+    width:100%;
+    /*text-align: center;*/
+
+}
+
+.socialmedia{
+	background-color: grey;
+}
+
+.socialmedia i{
+	width:200px;
+}
+
+
+.navbar {
+	position: fixed;
+	background-color: black;
+	
+}
+
+.navbar a{
+    background-color: white;
+    padding: 10px;
+}

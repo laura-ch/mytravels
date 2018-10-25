@@ -1,0 +1,17 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background: #ffedd570;
+    padding: 35px;
+}
+
+.navbar a{
+    border-radius: 9px;
+    padding: 67px;
+    color: #2f2f48;
+    font-weight: bold;
+}
+.list-without-bullet-point li{
+        display:inline;
+    }  

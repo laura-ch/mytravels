@@ -1,0 +1,11 @@
+#footer{
+    display: flex;
+    background-color: #fdc99e78;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.socialmedia i{
+	font-size: 50px;
+}
