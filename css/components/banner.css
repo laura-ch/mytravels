@@ -1,5 +1,5 @@
 .banner{
-	background-image: linear-gradient(-236deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url(../../images/machupichubackground.jpg);
+    background-image: linear-gradient(-237deg, rgba(0,0,0,31.8) 0%, rgba(0,0,0,0.1) 50%), url(../../images/machupichubackground.jpg);
 	background-size: cover;
 	background-position: center;
 	color:white;
@@ -8,7 +8,7 @@
 }
 
 .banner h1{
-    font-size: 81px;
+    font-size: 60px;
     margin-top: 30px;
     margin-left: 90px;
 }
